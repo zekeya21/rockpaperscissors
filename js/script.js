@@ -4,8 +4,13 @@
 
 //GLOBAL VARIABLES
 /* global $ */
-
-
+$(".shoot").click(function(){
+$("userChoice").text($("#input").val());-
+-
+var.computerchoice=""
+console.log(computerchoice);
+}
+var.
 
 // DOCUMENT READY FUNCTION BELOW
 
